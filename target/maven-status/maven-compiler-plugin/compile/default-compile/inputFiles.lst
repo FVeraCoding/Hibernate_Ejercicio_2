@@ -1,0 +1,17 @@
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Aplicacion.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Controlador\CursoController.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Controlador\DireccionController.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Controlador\EstudianteController.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Controlador\ProfesorController.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Clases\Curso.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Clases\Direccion.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Clases\Estudiante.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Clases\Profesor.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Persistencia\ControladoraPersistencia.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Persistencia\CursoJpaController.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Persistencia\DireccionJpaController.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Persistencia\EstudianteJpaController.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Persistencia\exceptions\IllegalOrphanException.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Persistencia\exceptions\NonexistentEntityException.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Persistencia\exceptions\PreexistingEntityException.java
+C:\Users\Fernando\Documents\NetBeansProjects\Ejercicio2_JPA\src\main\java\Ejercicio2\Modelo\Persistencia\ProfesorJpaController.java

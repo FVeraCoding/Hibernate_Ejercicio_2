@@ -1,0 +1,17 @@
+Ejercicio2\Modelo\Clases\Curso.class
+Ejercicio2\Modelo\Persistencia\exceptions\PreexistingEntityException.class
+Ejercicio2\Modelo\Persistencia\ControladoraPersistencia.class
+Ejercicio2\Modelo\Clases\Direccion.class
+Ejercicio2\Modelo\Persistencia\ProfesorJpaController.class
+Ejercicio2\Modelo\Clases\Estudiante.class
+Ejercicio2\Controlador\CursoController.class
+Ejercicio2\Controlador\ProfesorController.class
+Ejercicio2\Modelo\Persistencia\exceptions\NonexistentEntityException.class
+Ejercicio2\Controlador\EstudianteController.class
+Ejercicio2\Modelo\Persistencia\DireccionJpaController.class
+Ejercicio2\Modelo\Clases\Profesor.class
+Ejercicio2\Aplicacion.class
+Ejercicio2\Controlador\DireccionController.class
+Ejercicio2\Modelo\Persistencia\exceptions\IllegalOrphanException.class
+Ejercicio2\Modelo\Persistencia\CursoJpaController.class
+Ejercicio2\Modelo\Persistencia\EstudianteJpaController.class
